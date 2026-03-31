@@ -1,5 +1,7 @@
 # AgentPractice-for-CollegePhysics
 
+## 内测版本1.0
+
 开发的第一步：READNE.md
 
 ## 开发日志
